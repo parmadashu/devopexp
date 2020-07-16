@@ -1,3 +1,6 @@
 third file first line
+<<<<<<< HEAD
 second line
+=======
+>>>>>>> master
 
